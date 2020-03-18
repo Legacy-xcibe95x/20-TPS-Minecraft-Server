@@ -7,6 +7,8 @@
  Consider using paper for best performance anyway.
  
  
+ If for some reason i'm not updating the paper build, you can just download it from the official website.
+ 
  Vanilla:
  https://www.minecraft.net/it-it/download/server/
  
@@ -21,5 +23,5 @@
  
  
  
- If for some reason i'm not updating the paper build, you can just download it from the official website.
+ 
  
