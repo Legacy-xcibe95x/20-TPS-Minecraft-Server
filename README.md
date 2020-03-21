@@ -1,4 +1,7 @@
 # 20 TPS Minecraft Server
+
+# REPOSITORY IN PROGRESS, DELAYED DUE TO DOOM ETERNAL :P
+
  A preconfigured minecraft server, Optimized for Low Ram and Large Servers.
  
  This server uses paper as it's the most stable and most update server for mincraft and adds even more optimizations
