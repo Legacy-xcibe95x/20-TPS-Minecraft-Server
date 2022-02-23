@@ -1,6 +1,6 @@
 # Ready to use 20 TPS Minecraft Server
 
-# THIS REPOSITORY WILL BE UPDATED IN A SECOND MOMENT AS AT THE MOMENT I HAVE NO TIME FOR THIS, I WILL PUSH MY SERVER HERE AS SOON AS POSSIBLE.
+# 23/02/2022: This Repository may be incomplete as this is a cancelled project and i'm not maintaining it anymore.
 
  A preconfigured minecraft server, Optimized for both Low Specs and Large Specs Servers.
  
